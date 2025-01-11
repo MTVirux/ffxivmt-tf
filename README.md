@@ -1,0 +1,1 @@
+This is a repo containing the Hashicorp Terraform scripts for infrastructure management of the FFMT project
